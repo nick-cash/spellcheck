@@ -1,3 +1,5 @@
+Nick Cash, October 2013
+
 Note: Solution was written and tested with Python 2.7.3
 
 ------------------------------------------
